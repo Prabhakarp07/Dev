@@ -1,2 +1,3 @@
 jenkins is CI CD tool
 Jenkins is opensource 
+jenkins is user friendly
