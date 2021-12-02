@@ -4,4 +4,8 @@ jenkins is user friendl
 my name is Docker
 your name is what
 kubernetes is archestration tool
+<<<<<<< HEAD
 ansible is configuration management tool
+=======
+hello world
+>>>>>>> cd747f6d47a9ddac7d78f9bba1e17defbb83c7c7
