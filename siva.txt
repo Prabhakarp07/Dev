@@ -1,3 +1,7 @@
 jenkins is CI CD tool
 Jenkins is opensource 
+<<<<<<< HEAD
 jenkins is user friendly
+=======
+Docker is containerasation tool
+>>>>>>> refs/remotes/origin/main
