@@ -7,3 +7,4 @@ kubernetes is archestration tool
 ansible is configuration management tool
 hello world
 SVN is SCM tool
+maven is build tool
